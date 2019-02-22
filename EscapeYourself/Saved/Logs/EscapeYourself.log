@@ -603,3 +603,13 @@ LogInit: Object subsystem initialized
 [2019.02.22-13.27.11:967][  3]LogAssetRegistry: Asset discovery search completed in 6.2801 seconds
 [2019.02.22-13.27.11:969][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2019.02.22-13.27.11:969][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2019.02.22-13.43.07:852][795]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-13.43.08:940][925]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-13.43.09:169][952]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-13.43.10:532][115]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-13.43.13:644][488]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.22-13.43.13:647][488]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for ../../../../../../Users/csg17031341/Documents/Unreal Projects/TeamMiyamoto/EscapeYourself/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2019.02.22-13.43.56:350][587]LogSlate: Window 'Plugins' being destroyed
+[2019.02.22-13.43.56:351][587]LogSlate: Window 'Plugins' being destroyed
+[2019.02.22-13.43.56:351][587]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2019.02.22-13.45.47:559][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
