@@ -624,3 +624,17 @@ LogInit: Object subsystem initialized
 [2019.03.25-14.16.21:770][539]Cmd: MAP CHECK NOTIFYRESULTS
 [2019.03.25-14.16.21:770][539]MapCheck: New page: ThirdPersonExampleMap - 25 Mar 2019 14:16:21
 [2019.03.25-14.16.21:846][539]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 76.626ms to complete.
+[2019.03.25-14.19.59:704][116]LogSavePackage: Moving '../../../../../../Users/CSG17031341/Downloads/Team-Miyamoto/EscapeYourself/Saved/ThirdPersonExampleMap_Auto141934C22437C3CF0A3FE5FBAE7570C65.tmp' to '../../../../../../Users/CSG17031341/Downloads/Team-Miyamoto/EscapeYourself/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2019.03.25-14.19.59:716][116]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.324
+[2019.03.25-14.19.59:716][116]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.324
+[2019.03.25-14.19.59:719][116]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2019.03.25-14.19.59:719][116]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2019.03.25-14.19.59:805][116]LogSavePackage: Moving '../../../../../../Users/CSG17031341/Downloads/Team-Miyamoto/EscapeYourself/Saved/ThirdPersonExampleMap_BuiltData_CEA3D9884E121D96CF0408BBDFE8282C.tmp' to '../../../../../../Users/CSG17031341/Downloads/Team-Miyamoto/EscapeYourself/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto1.uasset'
+[2019.03.25-14.19.59:814][116]LogFileHelpers: Auto-saving content packages took 0.097
+[2019.03.25-14.34.00:056][651]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.03.25-14.34.04:670][663]LogSlate: Window 'Save Content' being destroyed
+[2019.03.25-14.34.06:748][911]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.25-14.34.07:870][ 37]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.03.25-14.34.08:213][ 37]LogSavePackage: Moving '../../../../../../Users/CSG17031341/Downloads/Team-Miyamoto/EscapeYourself/Saved/ThirdPersonExampleMapAC91BC914082B1257AB7BE8C618B26FE.tmp' to '../../../../../../Users/CSG17031341/Downloads/Team-Miyamoto/EscapeYourself/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2019.03.25-14.34.08:267][ 37]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.389
+[2019.03.25-14.34.08:698][ 37]LogSavePackage: Moving '../../../../../../Users/CSG17031341/Downloads/Team-Miyamoto/EscapeYourself/Saved/ThirdPersonExampleMap_BuiltDataCE3B71CD4201ABD67D17268AF09649BC.tmp' to '../../../../../../Users/CSG17031341/Downloads/Team-Miyamoto/EscapeYourself/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
